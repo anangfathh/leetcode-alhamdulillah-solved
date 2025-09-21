@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
+| [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->

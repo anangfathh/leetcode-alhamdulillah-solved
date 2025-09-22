@@ -67,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->

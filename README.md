@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0020-valid-parentheses) |
+| [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
 | [0125-valid-palindrome](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
+| [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
@@ -93,4 +95,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
+## Recursion
+|  |
+| ------- |
+| [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
 <!---LeetCode Topics End-->

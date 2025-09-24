@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 ## String
 |  |
 | ------- |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 ## Stack
 |  |
 | ------- |

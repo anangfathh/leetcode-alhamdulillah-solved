@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 ## Math
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 ## Stack
 |  |
 | ------- |

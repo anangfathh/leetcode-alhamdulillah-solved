@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
+| [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 ## Math
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
+| [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 ## Stack
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
 | ------- |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0155-min-stack) |
+| [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 ## Sliding Window
 |  |
 | ------- |

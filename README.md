@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0830-largest-triangle-area) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 ## Monotonic Stack
 |  |
 | ------- |

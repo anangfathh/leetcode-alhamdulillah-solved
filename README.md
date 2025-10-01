@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -92,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
+| [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Design
 |  |
 | ------- |

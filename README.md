@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 | [0830-largest-triangle-area](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0830-largest-triangle-area) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 ## Matrix
 |  |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 ## Sorting
 |  |
 | ------- |
@@ -158,15 +161,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0226-invert-binary-tree) |
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0226-invert-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 ## Tree
 |  |
 | ------- |
@@ -175,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0226-invert-binary-tree](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0226-invert-binary-tree) |
+## Union Find
+|  |
+| ------- |
+| [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 <!---LeetCode Topics End-->

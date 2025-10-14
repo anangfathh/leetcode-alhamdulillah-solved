@@ -1,8 +1,5 @@
 class Solution:
     def hasIncreasingSubarrays(self, nums: List[int], k: int) -> bool:
-        if k <= 1:
-            return True
-
         prev_inc = 0
         curr_inc = 1
 
@@ -10,16 +7,11 @@ class Solution:
             if nums[i] > nums[i - 1]:
                 curr_inc += 1
             else:
-                if prev_inc >= k and curr_inc >= k:
-                    return True
-                elif curr_inc >= 2 * k:
+                # cek dua urutan naik yang bersebelahan
+                if (prev_inc >= k and curr_inc >= k) or curr_inc >= 2 * k:
                     return True
                 prev_inc = curr_inc
                 curr_inc = 1
 
-        if prev_inc >= k and curr_inc >= k:
-            return True
-        if curr_inc >= 2 * k:
-            return True
-
-        return False
+        # cek terakhir setelah loop (kalau list naik sampai akhir)
+        return (prev_inc >= k and curr_inc >= k) or curr_inc >= 2 * k

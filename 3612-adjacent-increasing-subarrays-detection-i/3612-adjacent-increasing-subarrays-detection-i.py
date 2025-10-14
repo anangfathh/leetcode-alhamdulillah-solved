@@ -12,14 +12,9 @@ class Solution:
             else:
                 if prev_inc >= k and curr_inc >= k:
                     return True
-                elif curr_inc >= 2 * k:
+                if curr_inc >= 2 * k:
                     return True
                 prev_inc = curr_inc
                 curr_inc = 1
-
-        if prev_inc >= k and curr_inc >= k:
-            return True
-        if curr_inc >= 2 * k:
-            return True
-
-        return False
+                
+        return (prev_inc >= k and curr_inc >= k) or curr_inc >= 2 * k

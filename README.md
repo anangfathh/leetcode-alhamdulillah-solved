@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
+| [0143-reorder-list](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0155-min-stack) |
 ## Two Pointers
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
+| [0143-reorder-list](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0143-reorder-list) |
 ## Geometry
 |  |
 | ------- |
@@ -255,4 +258,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->

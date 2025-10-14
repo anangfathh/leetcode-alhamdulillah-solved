@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
 ## Geometry
 |  |
@@ -244,4 +246,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

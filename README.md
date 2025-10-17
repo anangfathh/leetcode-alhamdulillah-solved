@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 ## Stack
 |  |
 | ------- |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
@@ -254,10 +256,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Linked List
 |  |

@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0238-product-of-array-except-self) |
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 | [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 | [1612-avoid-flood-in-the-city](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1612-avoid-flood-in-the-city) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
 ## Database
 |  |
 | ------- |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0238-product-of-array-except-self) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |

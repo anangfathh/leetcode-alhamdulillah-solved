@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3873-subsequence-sum-after-capping-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3873-subsequence-sum-after-capping-elements) |
 ## Design
 |  |
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Database
 |  |
 | ------- |
@@ -273,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
+| [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Counting
 |  |

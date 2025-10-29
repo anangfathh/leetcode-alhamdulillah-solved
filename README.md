@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2324-find-triangular-sum-of-an-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3336-water-bottles-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## String
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |

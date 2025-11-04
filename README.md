@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Math
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
 ## Database
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
 | [1612-avoid-flood-in-the-city](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1612-avoid-flood-in-the-city) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Depth-First Search
 |  |
 | ------- |

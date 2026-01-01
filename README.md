@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
 | [0120-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0120-triangle) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0830-largest-triangle-area) |

@@ -1,14 +1,9 @@
 class Solution:
     def repeatedNTimes(self, nums: List[int]) -> int:
-        num_counter = Counter(nums)
-
-        n = len(nums) // 2
-
-        for key in num_counter.keys():
-            if num_counter[key] == n:
-                return key
-        
-
-
-
-        
+        for i in range(len(nums) - 1):
+            if nums[i] == nums[i + 1]:
+                return nums[i]
+            if i + 2 < len(nums) and nums[i] == nums[i + 2]:
+                return nums[i]
+            if i + 3 < len(nums) and nums[i] == nums[i + 3]:
+                return nums[i]

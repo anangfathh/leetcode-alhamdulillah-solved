@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1390-four-divisors) |
 | [1612-avoid-flood-in-the-city](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2169-simple-bank-system) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
+| [1975-maximum-matrix-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1975-maximum-matrix-sum) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Sorting
 |  |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
 | [1612-avoid-flood-in-the-city](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1975-maximum-matrix-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1975-maximum-matrix-sum) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Recursion

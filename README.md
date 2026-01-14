@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3454-separate-squares-ii) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1612-avoid-flood-in-the-city) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3454-separate-squares-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3454-separate-squares-ii) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
@@ -369,4 +371,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2174-next-greater-numerically-balanced-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3454-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->

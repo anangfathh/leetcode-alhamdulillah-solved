@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0830-largest-triangle-area](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
+| [1025-divisor-game](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1025-divisor-game) |
 | [1390-four-divisors](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1390-four-divisors) |
 | [1642-water-bottles](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1642-water-bottles) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2174-next-greater-numerically-balanced-number) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
+| [1025-divisor-game](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1025-divisor-game) |
 | [1111-minimum-score-triangulation-of-polygon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
@@ -385,4 +387,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3454-separate-squares-ii) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->

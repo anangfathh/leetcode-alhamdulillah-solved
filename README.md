@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0303-range-sum-query-immutable) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0141-linked-list-cycle) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0217-contains-duplicate](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0219-contains-duplicate-ii) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0217-contains-duplicate) |
 | [0759-set-intersection-size-at-least-two](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |

@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0304-range-sum-query-2d-immutable) |
+| [1422-maximum-score-after-splitting-a-string](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |

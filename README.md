@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0290-word-pattern) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0242-valid-anagram](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0290-word-pattern) |
 | [0926-find-and-replace-pattern](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0926-find-and-replace-pattern) |
 | [1023-time-based-key-value-store](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1023-time-based-key-value-store) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0242-valid-anagram) |
 | [0759-set-intersection-size-at-least-two](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1353-find-resultant-array-after-removing-anagrams) |

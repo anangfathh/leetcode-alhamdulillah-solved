@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0176-second-highest-salary](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0177-nth-highest-salary) |
+| [0178-rank-scores](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0178-rank-scores) |
 | [0184-department-highest-salary](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0184-department-highest-salary) |
 | [0584-find-customer-referee](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0595-big-countries) |

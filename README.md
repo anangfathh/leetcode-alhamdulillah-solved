@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0185-department-top-three-salaries) |
+| [0196-delete-duplicate-emails](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0196-delete-duplicate-emails) |
 | [0584-find-customer-referee](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1148-article-views-i) |

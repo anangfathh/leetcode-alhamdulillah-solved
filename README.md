@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0011-container-with-most-water) |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0088-merge-sorted-array) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0044-wildcard-matching) |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |

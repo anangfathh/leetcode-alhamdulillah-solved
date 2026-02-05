@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3379-transformed-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3379-transformed-array) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3454-separate-squares-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3454-separate-squares-ii) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3336-water-bottles-ii) |
+| [3379-transformed-array](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |

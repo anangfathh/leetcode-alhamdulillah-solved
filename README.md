@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-four-divisors](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1390-four-divisors) |
 | [1612-avoid-flood-in-the-city](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1612-avoid-flood-in-the-city) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1975-maximum-matrix-sum](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1975-maximum-matrix-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2169-simple-bank-system](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2169-simple-bank-system) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0543-diameter-of-binary-tree) |
 | [0794-swim-in-rising-water](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0794-swim-in-rising-water) |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Tree
 |  |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/2976-minimum-cost-to-convert-string-i) |
+## Union-Find
+|  |
+| ------- |
+| [1722-minimize-hamming-distance-after-swap-operations](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 <!---LeetCode Topics End-->

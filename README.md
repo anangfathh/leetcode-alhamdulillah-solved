@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0304-range-sum-query-2d-immutable) |
 | [0407-trapping-rain-water-ii](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0417-pacific-atlantic-water-flow) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0747-min-cost-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0747-min-cost-climbing-stairs) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0070-climbing-stairs) |
 | [0166-fraction-to-recurring-decimal](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0166-fraction-to-recurring-decimal) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0628-maximum-product-of-three-numbers](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0830-largest-triangle-area](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/0830-largest-triangle-area) |
 | [1018-largest-perimeter-triangle](https://github.com/anangfathh/leetcode-alhamdulillah-solved/tree/master/1018-largest-perimeter-triangle) |
